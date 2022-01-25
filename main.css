@@ -10,3 +10,11 @@
 h1 {
     font-size: 50px;
 }
+ul {
+    width: 238px;
+}
+li {
+    left: 0;
+    max-width: 238px;
+    white-space: pre-wrap;
+}
